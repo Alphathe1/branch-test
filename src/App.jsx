@@ -1,3 +1,9 @@
+import Privox from "./components/Privox";
+
 export default function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Privox />
+    </div>
+  );
 }
