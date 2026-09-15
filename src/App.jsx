@@ -1,18 +1,9 @@
-import Alpha from "./components/alpha";
-
-import Privox from "./components/Privox";
-
-import Nayel from "./components/Nayel";
-
-import Jazil from "./components/Jazil";
+import Nour from "./components/Nour";
 
 export default function App() {
   return (
     <div>
-      <Alpha />
-      <Privox />
-      <Nayel />
-      <Jazil />
+      <Nour />
     </div>
   );
 }
