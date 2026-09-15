@@ -1,3 +1,4 @@
+import Nour from "./components/Nour";
 import Alpha from "./components/alpha";
 
 import Privox from "./components/Privox";
@@ -9,6 +10,7 @@ import Hocine from "./components/Hocine";
 export default function App() {
   return (
     <div>
+      <Nour />
       <Alpha />
       <Privox />
       <Nayel />
