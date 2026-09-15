@@ -1,3 +1,9 @@
+import Alpha from "./components/alpha";
+
 export default function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Alpha />
+    </div>
+  );
 }
