@@ -1,3 +1,9 @@
+import Jazil from "./components/Jazil";
+
 export default function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Jazil></Jazil>
+    </div>
+  );
 }
