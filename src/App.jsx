@@ -1,3 +1,9 @@
+import Nour from "./components/Nour";
+
 export default function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Nour />
+    </div>
+  );
 }
