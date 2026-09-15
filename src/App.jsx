@@ -1,3 +1,9 @@
+import Nayel from "./components/Nayel";
+
 export default function App() {
-  return <div></div>;
+  return (
+    <div>
+      <Nayel />
+    </div>
+  );
 }
